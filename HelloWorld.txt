@@ -1,3 +1,8 @@
+----------
+print("Zig worlds!);
+print("Moon world!);
+----------
+print("Shame world!);
 print("hello world!!),
 print("heeeeey!!),
 print("heeeeeyTo!!),
